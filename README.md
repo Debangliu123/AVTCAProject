@@ -9,5 +9,4 @@ We obtained several real-world video recordings from YouTube containing mixed sp
 
 ## Audio-visual demos
 
-https://user-images.githubusercontent.com/33806018/208616615-dab6ab87-def1-405a-897e-a3c1decb790a.mp4
-
+https://www.youtube.com/watch?v=SiijS_9hPkM
