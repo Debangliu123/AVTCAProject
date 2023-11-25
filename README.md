@@ -8,4 +8,3 @@ We obtained several real-world video recordings from YouTube containing mixed sp
 [Demo](https://www.youtube.com/watch?v=SiijS_9hPkM)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SiijS_9hPkM" frameborder="0" allowfullscreen></iframe>
