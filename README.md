@@ -3,4 +3,4 @@ This repository  currently contains  a real-world speech separation result demo 
 
 We obtained several real-world video recordings from YouTube containing mixed speech between two speakers to show the effectiveness of our separation model. The display results demos can be accessed through the following link: 
 
-[Down demo](https://drive.google.com/file/d/116vKaQoo7qt7DtPUoUqh7kfCq1JrjLHr/view?usp=sharing)
+[Download demo in Google Driver](https://drive.google.com/file/d/116vKaQoo7qt7DtPUoUqh7kfCq1JrjLHr/view?usp=sharing)
