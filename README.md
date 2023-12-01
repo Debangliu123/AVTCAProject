@@ -1,4 +1,4 @@
-# Audio-Visual Fusion with Temporal Convolutional Attention for Speech Separation  (AVTCA) Model
+# Audio-Visual Fusion with Temporal Convolutional Attention Network for Speech Separation  Model (AVTCA)
 This repository  currently contains  a real-world speech separation result demo using AVTCA.
 
 We obtained several real-world video recordings from YouTube containing mixed speech between two speakers to show the effectiveness of our separation model. The display results demos can be accessed through the following link: 
