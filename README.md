@@ -12,7 +12,7 @@ In this demo, videos 1 and 2 are both front-face recordings of the speaker, whil
 
 
 ## Citations ##
-If you find this code useful in your research, please cite our work:
+If you find our project useful in your research, please cite our work:
 ```bib
 @ARTICLE{10683978,
   author={Liu, Debang and Zhang, Tianqi and Christensen, Mads Græsbøll and Yi, Chen and An, Zeliang},
